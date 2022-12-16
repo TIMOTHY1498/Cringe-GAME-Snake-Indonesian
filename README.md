@@ -1,4 +1,5 @@
-# Cringe-GAME-Snake-Indonesian
+# Game-Cringe
+
 Ni GAME ULAR CRINGE PAKE PYTHON
 Untuk Orang Indo
 
